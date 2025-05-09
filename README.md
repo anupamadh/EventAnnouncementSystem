@@ -6,9 +6,9 @@
 This project is an example built alongside an AWS Tutorial from Tech With Lucy.
 The event announcement website that allows users to do the following:
 
-Subscribe to event notifications via email.
-View a list of events.
-Create new events through a form.
+1. Subscribe to event notifications via email.
+2. View a list of events.
+3. Create new events through a form.
 
 ## AWS Services used
 
