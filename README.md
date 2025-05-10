@@ -29,6 +29,8 @@ IAM Roles & Policies: Secure access to AWS resources like S3 and SNS.
    **Technology:** S3 with static hosting
    **Details:** The website is hosted in an S3 bucket using html, css and json file to store the events. 
 
+![](images/EventAnnouncements.png)
+
 2. **Backend Processing**  
    **Technology:** REST API Gateway, Lambda
    **Details:**
